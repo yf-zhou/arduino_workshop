@@ -16,5 +16,5 @@
 * Page 17: [blink with delay](delay/delay.ino)
 * Page 18: [blink with millis](millis/millis.ino)
 * Page 25: [control motors](motor/motor.ino)
-* Page 30: [ultrosonic sensor](ultrasoonic_test/ultrasonic_test.ino)
+* Page 30: [ultrosonic sensor](ultrasonic_test/ultrasonic_test.ino)
 * Page 32: [chaser robot](chaser/chaser.ino)
