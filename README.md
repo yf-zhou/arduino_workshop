@@ -1,4 +1,4 @@
-[Slides](https://drive.google.com/file/d/10qvrfV-Jlb7w16noGzw2TPmHtYMb8NZA/view?usp=sharing)
+[Hackathon Slides](https://drive.google.com/file/d/10qvrfV-Jlb7w16noGzw2TPmHtYMb8NZA/view?usp=sharing)
 
 * Page 7: [light_on](light_on/light_on.ino)
 * Page 12: [brightness](brightness/brightness.ino)
@@ -8,3 +8,13 @@
 * Page 20: [read sensor](sensor/sensor.ino)
 * Page 22: [night light](night_light1/night_light1.ino)
 * Page 23: [night light with oop](night_light2/night_light2.ino) 
+
+[Sumo Slides](https://drive.google.com/file/d/1P8lZUP7c3xivZ-DR1frbo9dJKFh6GIqj/view?usp=sharing)
+
+* Page 12: [light_on](light_on/light_on.ino)
+* Page 15: [serial_output](serial_output/serial_output.ino)
+* Page 17: [blink with delay](delay/delay.ino)
+* Page 18: [blink with millis](millis/millis.ino)
+* Page 25: [control motors](motor/motor.ino)
+* Page 30: [ultrosonic sensor](ultrasoonic_test/ultrasonic_test.ino)
+* Page 32: [chaser robot](chaser/chaser.ino)
